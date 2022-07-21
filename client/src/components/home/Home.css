@@ -1,0 +1,59 @@
+.home-cnt{
+    background-image: url("../imagenes/mapamundicolor.jpg");
+    background-repeat: repeat-y;
+    background-size:contain;
+    background-color: rgb(247, 247, 247);
+
+
+
+}
+
+.home-wlc{
+    background-color: rgba(126, 0, 222, 0.604);
+    height:100px;
+    /* width:25%; */
+    text-align:center;
+    font-size:60px;
+    color:rgba(189, 176, 0, 0.985);
+
+    
+}
+
+.home-wlc:hover{
+    background-color: rgba(144, 0, 255, 0.694);
+    
+    
+}
+
+.createlnk{
+
+    margin-top: 10px;
+    background-color: rgba(163, 193, 183, 0.66);
+    font-weight: bold;
+    width:30%;
+    font-size:30px;
+    border:solid 1px red;
+    display:flex;
+    text-align:center;
+
+
+
+}
+
+.createlnk:hover{
+    margin-top: 10px;   
+    background-color: rgba(127, 255, 212, 0.832);
+    font-weight: bold;
+    border:solid 1px red;
+    font-size:30px;
+  
+}
+
+
+.imggif{
+
+background-image: url(); 
+background-repeat: no-repeat;
+background-position: left;
+background-size:100px;
+}

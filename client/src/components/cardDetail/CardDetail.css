@@ -1,0 +1,31 @@
+
+.detail-cnt{
+
+
+    background-image: url("../imagenes/World-Map-digital-design_1920x1200.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1300px;
+    color:white;
+    text-align: center;
+
+}
+
+.card-cnt{
+
+    background-color: rgba(135, 160, 182, 0.25);
+    width: 100%;
+}
+
+
+.image-cnt{
+    height:300px;
+    border:2px solid rgb(255, 255, 255);
+    border-radius:25px
+}
+
+.act-card{
+    text-align:  center;
+    background-color: rgba(127, 255, 212, 0.216);
+    width: 25%;
+}

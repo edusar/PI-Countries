@@ -1,0 +1,30 @@
+.Cards-cnt{
+    font-size:8px;
+    display:grid;
+    grid-template-columns: 300px 300px 300px 300px 300px;
+    grid-template-rows: 300px 300px 300px 300px ;
+    
+    justify-content: center;
+    margin:20px
+    
+    }
+
+    .container-cards{
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+    }
+    
+    .previousNext{
+
+        background-color:rgba(127, 255, 212, 0.317);
+        color: rgb(33, 31, 31) ;
+        font-size: 25px;
+        width:50%;
+        text-align: center;
+        display:flex;
+        height:40px;
+        justify-content: space-around;
+        flex-direction:center;
+        
+    }
